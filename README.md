@@ -1,1 +1,1 @@
-# qflow_RTL_to_GDS
+This project is to develop a RTL to GDSII of an inverter 
